@@ -10,4 +10,5 @@ git clone ...
 Make sure all the dependencies are installed using rosdep
 ```bash
 # From the root directory of the workspace. This will install everything mentioned in package.xml
-rosde
+rosdep install --from-paths src --ignore-src -r -y
+```
