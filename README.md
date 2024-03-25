@@ -14,7 +14,7 @@ Run the install command with -y flag to quickly install the packages and depende
 sudo apt-get install -y jstest-gtk
 ```
 
-##Instrctions
+##Instrctions to install and run ps4_controller
 ###Clone 
 Clone the repository in your src folder in your workspace.
 ```bash
