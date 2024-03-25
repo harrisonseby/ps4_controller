@@ -3,7 +3,7 @@ This ros2 package takes input from the ps4 controller and converts it into /cmd_
 
 ## Prerequisites
 Before installing the package make sure your controller is connected using wired or wireless method. 
-You can check the controls are recognized by the system by using the jstest-gtk package.
+You can check whether the controls are recognized by the system by using the jstest-gtk package.
 ### Install jstest-gtk
 Run update command to update package repositories and get latest package information.
 ```bash
